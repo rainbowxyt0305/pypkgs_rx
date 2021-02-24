@@ -1,4 +1,4 @@
-# pypkgs_RX 
+# pypkgs_rx 
 
 ![](https://github.com/rainbowxyt0305/pypkgs_rx/workflows/build/badge.svg) [![codecov](https://codecov.io/gh/rainbowxyt0305/pypkgs_rx/branch/main/graph/badge.svg)](https://codecov.io/gh/rainbowxyt0305/pypkgs_rx) ![Release](https://github.com/rainbowxyt0305/pypkgs_rx/workflows/Release/badge.svg) [![Documentation Status](https://readthedocs.org/projects/pypkgs_rx/badge/?version=latest)](https://pypkgs_rx.readthedocs.io/en/latest/?badge=latest)
 
